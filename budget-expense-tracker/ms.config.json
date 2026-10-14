@@ -1,0 +1,8 @@
+{
+  "appDisplayName": "Budget Expense Tracker",
+  "appId": "c12a1ed7-0df3-42c5-bdef-ae2f25a67b70",
+  "buildEntryPoint": "index.html",
+  "buildPath": "dist",
+  "environmentId": "da8e7439-68b4-e007-bac7-ed2c5448940b",
+  "repositoryId": "832d4c97-125a-4fbf-95fd-e15fbce3edfc"
+}
